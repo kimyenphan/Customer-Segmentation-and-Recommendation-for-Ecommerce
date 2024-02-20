@@ -136,7 +136,6 @@ Characteristics of each cluster:
 The goal is to create a recommendation engine suggesting three top products not yet purchased by a customer but popular within their cluster, catering to the primary 95% of customers. For the 5% outliers, random product recommendations will engage them.
 
 Sample output:
-Below are sample plots:
 <div align="center">
   <img src="images/image_10.png" alt="Image 3">
 </div>
